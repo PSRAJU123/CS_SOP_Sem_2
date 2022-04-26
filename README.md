@@ -14,5 +14,21 @@ For Named Entity Recognition Spacy and Flair pretrained models were used.
 Flair Models are pretrained on [OntoNotes Dataset](https://paperswithcode.com/dataset/ontonotes-5-0).
 
 Demo Videos for Each Colab File
-1. 
+1. Text Summarization With BART
+https://user-images.githubusercontent.com/44365490/165237615-7f498181-6214-467d-be30-f0d480dc472d.mp4
+
+2. Named Entity Recognition on Chats
+
+https://user-images.githubusercontent.com/44365490/165237694-320dd50c-ccf8-47dc-86c3-434285f36963.mp4
+
+3. Preprocessing Chats to handle Code-Mixing
+
+https://user-images.githubusercontent.com/44365490/165237949-3a406872-c20c-4bff-9c62-c8298857cc8f.mp4
+
+https://user-images.githubusercontent.com/44365490/165237988-3b3fb91e-27d7-4ef2-8fd3-06be61561e14.mp4
+
+4. FineTuning BART on TweetSumm
+
+https://user-images.githubusercontent.com/44365490/165238039-1f8790b2-4605-49d9-a5d6-ad05adca80be.mp4
+
 

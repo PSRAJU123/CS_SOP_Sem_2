@@ -1,1 +1,3 @@
-Text Summarization For Code Mixed Chats
+##Text Summarization 
+##Code Mixing 
+##Named Entity Recognition 

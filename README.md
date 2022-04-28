@@ -8,6 +8,8 @@ The BART was fine tuned on [SamSum](https://huggingface.co/datasets/samsum) and 
 
 Google Translate API was used for handling Code-Mixing In the Chats. After preprocessing of the Chats the Data is passed into trained models for final Text Summarization.
 
+The following document [Work_Report](https://drive.google.com/file/d/1lPWSwF5ZSaQiP17IVr-vT44GrAPuV_np/view?usp=sharing) details the Work Done during the Semester.
+
 ## Named Entity Recognition For Chats
 
 For Named Entity Recognition Spacy and Flair pretrained models were used.
